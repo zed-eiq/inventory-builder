@@ -1,0 +1,6 @@
+[submodule "docs-extensions"]
+	path = docs-extensions
+	url = git@gitlab.tools.k8s.eiq.sh:documentation/docs-extensions.git
+[submodule "docs-intel-center"]
+	path = docs-intel-center
+	url = git@gitlab.tools.k8s.eiq.sh:documentation/docs-intel-center.git
