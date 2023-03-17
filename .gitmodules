@@ -1,6 +1,8 @@
 [submodule "docs-extensions"]
 	path = docs-extensions
 	url = git@gitlab.tools.k8s.eiq.sh:documentation/docs-extensions.git
+    branch = release-2.14.x
 [submodule "docs-intel-center"]
 	path = docs-intel-center
 	url = git@gitlab.tools.k8s.eiq.sh:documentation/docs-intel-center.git
+    branch = release-2.14.x
