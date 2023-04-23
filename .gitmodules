@@ -6,3 +6,6 @@
 	path = docs-intel-center
 	url = git@gitlab.tools.k8s.eiq.sh:documentation/docs-intel-center.git
     branch = pint-1132-release-3-0
+[submodule "security-advisories"]
+	path = security-advisories
+	url = git@gitlab.tools.k8s.eiq.sh:documentation/security-advisories.git
