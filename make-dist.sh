@@ -1,5 +1,7 @@
 #!/usr/bin/env sh
 
+set -e
+
 git submodule update --init --remote
 
 pushd docs-extensions
