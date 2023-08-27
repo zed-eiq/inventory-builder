@@ -1,11 +1,11 @@
 [submodule "docs-extensions"]
 	path = docs-extensions
 	url = git@gitlab.tools.k8s.eiq.sh:documentation/docs-extensions.git
-	branch = dev-5579-extensions-reorganization
+	branch = main
 [submodule "docs-intel-center"]
 	path = docs-intel-center
 	url = git@gitlab.tools.k8s.eiq.sh:documentation/docs-intel-center.git
-	branch = dev-5579-repin-to-inventory-v2
+	branch = release-3.1.x
 [submodule "security-advisories"]
 	path = security-advisories
 	url = git@gitlab.tools.k8s.eiq.sh:documentation/security-advisories.git
